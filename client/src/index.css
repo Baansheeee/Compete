@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .form-btn {
+    @apply w-full bg-primary-red text-white font-bold py-2 px-4 rounded-lg shadow-md hover:bg-hover-btn transition duration-300 ease-in-out;
+  }
+
+  .select-btn {
+    @apply bg-primary-red text-white font-semibold py-3 px-6 rounded-lg shadow-md transition duration-300 ease-in-out transform hover:bg-hover-btn text-center;
+  }
+}
