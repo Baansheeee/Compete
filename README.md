@@ -1,0 +1,2 @@
+# Project name : TechSwap
+<p>TexSwap is a platform where users can sell their devices, such as smartphones, tablets, and laptops. Users provide details about their device (brand, condition, defects, etc.), and the system generates an estimated price. Once the user submits the device for sale, the admin reviews the request, verifies the device's condition, and either approves or adjusts the price before finalizing the sale. The process includes options for pickup or mailing the device, and ensures identity verification for secure transactions.</p>
